@@ -1,6 +1,7 @@
 
 
 import './App.css'
+import Todolist from './components/todolist'
 
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
 
   return (
     <>
+       <Todolist/>
 
     </>
   )
